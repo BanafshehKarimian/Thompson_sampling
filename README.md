@@ -13,5 +13,5 @@ The thompson sampling for a problem of ... is implemented.
 * The start_trials method recieves the number of trials needed and calls the take_action method of the agent and calculates the regret and return percent of optimal action selection. In addition, for every trial in the plot_trial, this method plots the guesed reward distribution of the action.
 
 ## result
-Plotting the rewards distribution for few trials in addition to percent of optimal action selection and regret based on trial.
+Plotting the rewards distribution for few trials in addition to percent of optimal action selection and regret.
 ![](https://github.com/BanafshehKarimian/Thompson_sampling/blob/master/result.png)
