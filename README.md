@@ -14,4 +14,4 @@ The thompson sampling for a problem of ... is implemented.
 
 ## result
 Plotting the rewards distribution for the 1, 30, 70, 300, 700 and 1000th trial of the first run in addition to percent of optimal action selection and regret based on trial.
-![](https://github.com/BanafshehKarimian/Thompson_sampling/result.png)
+![](https://github.com/BanafshehKarimian/Thompson_sampling/blob/master/result.png)
