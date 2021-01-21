@@ -1,5 +1,5 @@
 # Thompson_sampling
-The thompson sampling for a problem of ... is implemented.
+The thompson sampling is implemented for a 10 armed bandit with rewards similar to sutton barto's figure 2.1.
 * Reward class: 
     * The Reward class inherits from RewardBase class and adds mean and variance of the reward distribution along with sum of all rewards recieved from this distribution and the number of times we got a sample of this reward. 
     * The Update method is used for agent defined rewards which needs to update the rewards mean and variance after each sample. 
